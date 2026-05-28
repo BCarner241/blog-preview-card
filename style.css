@@ -93,7 +93,7 @@ main .date {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 10px;
+    gap: 12px;
 }
 
 main .pfp {
@@ -102,6 +102,6 @@ main .pfp {
 }
 
 main .name {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 800;
 }
